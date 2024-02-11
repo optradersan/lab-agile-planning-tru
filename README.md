@@ -1,1 +1,1 @@
-# lab-agile-planning-tru
+this repositiory contains the lab for agile planning
